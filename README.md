@@ -1,3 +1,6 @@
+<h1> How To Get Started </h1>
+<h6> Last update 01/07/26 </h6>
+
 1. Click the green "<> Code V" button. Click Codespaces, click "Create codespace on main".
 2. Now that you are in the codespace, you will see a message at the bottom right that says "Building Codespace", wait for it to go away.
 3. Wait for an elephant icon to appear on the sidebar.
