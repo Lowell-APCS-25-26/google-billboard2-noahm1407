@@ -14,14 +14,11 @@ public class GoogleBillboard {
                 return false;
             }
         }
+        //there is a syntax error error, the inital build should tell you that.
         return true
     }
     public long firstPrimeNumberIn(String n) {
-        for (int i = 0; i  <= n.length() - 10; i++) {
-            long window = Long.parseLong(n.substring(i, i + 10));
-            if (isPrime(window))
-                return window;
-        }
-        return -1;
+        //Use Long.parseLong() vs Double.parseDouble to convert the 10 digit substring into a number.
+        //more code goes here
     }
 }
